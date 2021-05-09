@@ -1,2 +1,3 @@
-# Tindog-
-Tinder Website Replica for dogs - HTML, CSS, BS4
+# Tindog
+Front End Development utilizing HTML5, CSS3, and BS4
+Tinder Website Replica for dogs 
